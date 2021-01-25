@@ -6,7 +6,8 @@ to view random prompts as well as submit, edit, and delete your own. This
 is the back-end application of the Script'd app.
 
 Important Links
-Repo -
+ERD - (https://i.imgur.com/ab11dbo.png)
+Repo - (https://github.com/akramshah/prompt_express_api)
 Front-End: https://github.com/akramshah/prompt-randomizer-client
 Back-End: https://github.com/akramshah/prompt_express_api
 
